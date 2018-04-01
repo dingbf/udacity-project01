@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+.info{
+	position: relative;
+}
+.info .win{
+	width:505px;
+	margin-left:-253px;
+	color:#09f;
+	position:absolute;
+	top:50px;
+	left:50%;
+}
+.info .win .msg{
+	display: none;
+}
+.info .win .score{
+	float: left;
+}
